@@ -1,0 +1,7 @@
+*.pdf
+*.jpg
+*.html
+pdf_envs/
+__pycache__/
+*.pyc
+requirements.txt
